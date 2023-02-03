@@ -5,6 +5,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>springmongo</module>
+        <module>springelasticsearch</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
